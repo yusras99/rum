@@ -1,4 +1,4 @@
-# rum
+# Universal Machine - RUST
 	Yusra Suhail, Amelia Vogel, Lakshinee Rungadoo
 For this assignment, we spent approximately 17 hours in total to implement our Universal Machine. We spent a lot of time in help hours and we consulted with both the professor and the TAs at several points throughout the process of coding our UM. We spent the longest amount of time in Eddy’s hours as well as Professor Daniels’; we also attended other TA hours such as Colin’s and Derek’s that were also very helpful.
 While creating the Design Document for this assignment, we were most confused about how to organize the different modules in order to emulate the functionality of a Universal Machine. Initially, we were confused on how to start coding a UM since we were unsure on how to connect all the components to emulate a Universal Machine. However, once we got some advice from Professor Daniels and we worked through the labs where we created programs to use for testing, we were able to get a head start on our machine.
